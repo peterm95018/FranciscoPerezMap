@@ -69,7 +69,8 @@
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "title": "TBD"
       },
       "geometry": {
         "type": "Point",
@@ -98,7 +99,8 @@
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "title": "TBD"
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +120,8 @@
         "recycling:glass": "yes",
         "recycling:glass_bottles": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "title": "TBD"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +147,8 @@
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "title": "TBD"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +171,8 @@
         "recycling:paper": "yes",
         "recycling:paper_packaging": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "title": "TBD"
       },
       "geometry": {
         "type": "Point",
@@ -196,7 +201,8 @@
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "title": "TBD"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +231,8 @@
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "title": "TBD"
       },
       "geometry": {
         "type": "Point",
@@ -254,7 +261,8 @@
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "title": "TBD"
       },
       "geometry": {
         "type": "Point",
