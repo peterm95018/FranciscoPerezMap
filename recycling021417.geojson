@@ -1,8 +1,5 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-02-15T17:02:02Z",
   "features": [
     {
       "type": "Feature",
@@ -22,7 +19,8 @@
         "recycling:plastic": "yes",
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -38,11 +36,11 @@
       "properties": {
         "@id": "node/2011300529",
         "amenity": "recycling",
-        "description": "Across from ILC Apartment Building 4",
-        "location": "International Living Center (ILC)",
-        "name": "PSI Cardboard Dumpster",
+        "description": "International Living Center (ILC)",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -70,7 +68,8 @@
         "recycling:plastic": "yes",
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -98,7 +97,8 @@
         "recycling:plastic": "yes",
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,8 @@
         "recycling:cans": "yes",
         "recycling:glass": "yes",
         "recycling:glass_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +143,8 @@
         "recycling:plastic": "yes",
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -164,7 +166,8 @@
         "recycling:newspaper": "yes",
         "recycling:paper": "yes",
         "recycling:paper_packaging": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -192,7 +195,8 @@
         "recycling:plastic": "yes",
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -220,7 +224,8 @@
         "recycling:plastic": "yes",
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -248,7 +253,8 @@
         "recycling:plastic": "yes",
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -264,12 +270,12 @@
       "properties": {
         "@id": "node/2411318146",
         "amenity": "recycling",
-        "description": "Outside Rachel Carson Garden D",
-        "location": "Rachel Carson Garden D",
-        "name": "PSI Dumpster",
+        "description": "Rachel Carson Garden D",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -285,9 +291,10 @@
       "properties": {
         "@id": "node/4418359631",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -303,9 +310,10 @@
       "properties": {
         "@id": "node/4418359632",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -321,9 +329,10 @@
       "properties": {
         "@id": "node/4418359633",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -339,9 +348,10 @@
       "properties": {
         "@id": "node/4418359634",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -357,9 +367,10 @@
       "properties": {
         "@id": "node/4418359635",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -375,9 +386,10 @@
       "properties": {
         "@id": "node/4418359636",
         "amenity": "recycling",
-        "name": "PSI Cardboard",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -393,9 +405,10 @@
       "properties": {
         "@id": "node/4418359637",
         "amenity": "recycling",
-        "name": "PSI Cardboard",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -411,9 +424,10 @@
       "properties": {
         "@id": "node/4418359638",
         "amenity": "recycling",
-        "name": "PSI Cardboard",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -429,10 +443,11 @@
       "properties": {
         "@id": "node/4418359646",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -448,11 +463,12 @@
       "properties": {
         "@id": "node/4418359647",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:aluminium": "yes",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -468,10 +484,11 @@
       "properties": {
         "@id": "node/4418359648",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -487,10 +504,11 @@
       "properties": {
         "@id": "node/4418359649",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -506,10 +524,11 @@
       "properties": {
         "@id": "node/4418359650",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -525,10 +544,11 @@
       "properties": {
         "@id": "node/4418359651",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -544,10 +564,11 @@
       "properties": {
         "@id": "node/4418359652",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -563,11 +584,12 @@
       "properties": {
         "@id": "node/4418359653",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:aluminium": "yes",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -583,9 +605,10 @@
       "properties": {
         "@id": "node/4418359654",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cans": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -601,9 +624,10 @@
       "properties": {
         "@id": "node/4418359655",
         "amenity": "recycling",
-        "name": "PSI Dumpster",
         "recycling:cans": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -619,11 +643,12 @@
       "properties": {
         "@id": "node/4418359656",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:mixed": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -639,10 +664,11 @@
       "properties": {
         "@id": "node/4418359657",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -658,10 +684,11 @@
       "properties": {
         "@id": "node/4418359658",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -677,10 +704,11 @@
       "properties": {
         "@id": "node/4418359659",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -696,10 +724,11 @@
       "properties": {
         "@id": "node/4418359660",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -715,10 +744,11 @@
       "properties": {
         "@id": "node/4418359661",
         "amenity": "recycling",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -734,11 +764,11 @@
       "properties": {
         "@id": "node/4422209890",
         "amenity": "recycling",
-        "description": "Outside Rachel Carson Garden D",
-        "location": "Rachel Carson Garden D",
-        "name": "PSI Dumpster",
+        "description": "Rachel Carson Garden D",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -754,11 +784,11 @@
       "properties": {
         "@id": "node/4422209891",
         "amenity": "recycling",
-        "description": "Outside College 10 Resident Hall 6",
-        "location": "College 10 Resident Hall 6",
-        "name": "PSI Dumpster",
+        "description": "College 10 Resident Hall 6",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -774,11 +804,11 @@
       "properties": {
         "@id": "node/4422209892",
         "amenity": "recycling",
-        "description": "Outside 9/10 Dining Hall Loading Dock",
-        "location": "9/10 Dining Hall",
-        "name": "PSI Dumpster",
+        "description": "9/10 Dining Hall",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -794,11 +824,11 @@
       "properties": {
         "@id": "node/4422209893",
         "amenity": "recycling",
-        "description": "Adjacent to Hague House",
-        "location": "Hague House",
-        "name": "PSI Dumpster",
+        "description": "Hague House",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -814,11 +844,11 @@
       "properties": {
         "@id": "node/4422209894",
         "amenity": "recycling",
-        "description": "Behind Social Scieneces I",
-        "location": "Social Sciences I",
-        "name": "PSI Dumpster",
+        "description": "Social Sciences I",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -834,11 +864,11 @@
       "properties": {
         "@id": "node/4422209895",
         "amenity": "recycling",
-        "description": "Near Parking Lot 160",
-        "location": "Parking Lot 160",
-        "name": "PSI Cardboard",
+        "description": "Parking Lot 160",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -854,11 +884,11 @@
       "properties": {
         "@id": "node/4422209896",
         "amenity": "recycling",
-        "description": "Outside Rachel Carson Apartment Building 2",
-        "location": "Rachel Carson Apartment Building 2",
-        "name": "PSI Cardboard",
+        "description": "Rachel Carson Apartment Building 2",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -874,11 +904,11 @@
       "properties": {
         "@id": "node/4422209897",
         "amenity": "recycling",
-        "description": "In Front of Camper Park Recreation Building",
-        "location": "Camper Park",
-        "name": "PSI Cardboard",
+        "description": "Camper Park",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -894,11 +924,11 @@
       "properties": {
         "@id": "node/4422209898",
         "amenity": "recycling",
-        "description": "Outside Social Scieneces I",
-        "location": "Social Sciences I",
-        "name": "PSI Cardboard",
+        "description": "Social Sciences I",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -914,11 +944,11 @@
       "properties": {
         "@id": "node/4422209899",
         "amenity": "recycling",
-        "description": "Adjacent to 9/10 Apartments Building 2",
-        "location": "9/10 Apartment Building 2",
-        "name": "PSI Cardboard",
+        "description": "9/10 Apartment Building 2",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Cardboard",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -934,12 +964,12 @@
       "properties": {
         "@id": "node/4422209907",
         "amenity": "recycling",
-        "description": "Outside College 10 Resident Hall 6",
-        "location": "College 10 Resident Hall 6",
-        "name": "PSI Dumpster",
+        "description": "College 10 Resident Hall 6",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -955,12 +985,12 @@
       "properties": {
         "@id": "node/4422209908",
         "amenity": "recycling",
-        "description": "Outside 9/10 Dining Hall Loading Dock",
-        "location": "9/10 Dining Hall",
-        "name": "PSI Dumpster",
+        "description": "9/10 Dining Hall",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -976,11 +1006,11 @@
       "properties": {
         "@id": "node/4422209909",
         "amenity": "recycling",
-        "description": "Behind Social Sciences II Loading Dock",
-        "location": "Social Sciences II",
-        "name": "PSI Dumpster",
+        "description": "Social Sciences II",
         "recycling:cans": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -996,11 +1026,11 @@
       "properties": {
         "@id": "node/4422209910",
         "amenity": "recycling",
-        "description": "Adjacent to Hague House",
-        "location": "Hague House",
-        "name": "PSI Dumpster",
+        "description": "Hague House",
         "recycling:cans": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1016,11 +1046,11 @@
       "properties": {
         "@id": "node/4422209911",
         "amenity": "recycling",
-        "description": "Behind Social Scieneces I",
-        "location": "Social Sciences I",
-        "name": "PSI Dumpster",
+        "description": "Social Sciences I",
         "recycling:cans": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Dumpster",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1036,12 +1066,12 @@
       "properties": {
         "@id": "node/4422209912",
         "amenity": "recycling",
-        "description": "Near Parking Lot 160",
-        "location": "Parking Lot 160",
-        "name": "PSI Recycling",
+        "description": "Parking Lot 160",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1057,13 +1087,13 @@
       "properties": {
         "@id": "node/4422209913",
         "amenity": "recycling",
-        "description": "Near Parking Lot 162",
-        "location": "Parking Lot 162",
-        "name": "PSI Recycling",
+        "description": "Parking Lot 162",
         "recycling:cans": "yes",
         "recycling:cardboard": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1079,12 +1109,12 @@
       "properties": {
         "@id": "node/4422209914",
         "amenity": "recycling",
-        "description": "Outside Rachel Carson Apartment Building 6",
-        "location": "Rachel Carson Apartment Building 6",
-        "name": "PSI Recycling",
+        "description": "Rachel Carson Apartment Building 6",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1100,12 +1130,12 @@
       "properties": {
         "@id": "node/4422209915",
         "amenity": "recycling",
-        "description": "Outside Rachel Carson Apartment Building 2",
-        "location": "Rachel Carson Apartment Building 2",
-        "name": "PSI Recycling",
+        "description": "Rachel Carson Apartment Building 2",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1121,12 +1151,12 @@
       "properties": {
         "@id": "node/4422209916",
         "amenity": "recycling",
-        "description": "Outside Rachel Carson Academic Building",
-        "location": "Rachel Carson Academic Building",
-        "name": "PSI Recycling",
+        "description": "Rachel Carson Academic Building",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1142,12 +1172,12 @@
       "properties": {
         "@id": "node/4422209917",
         "amenity": "recycling",
-        "description": "Behind Rachel Carson Apartment Building 1",
-        "location": "Rachel Carson Apartment Building 1",
-        "name": "PSI Recycling",
+        "description": "Rachel Carson Apartment Building 1",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1163,13 +1193,13 @@
       "properties": {
         "@id": "node/4422209918",
         "amenity": "recycling",
-        "description": "In Front of Camper Park Recreation Building",
-        "location": "Camper Park",
-        "name": "PSI Recycling",
+        "description": "Camper Park",
         "recycling:cans": "yes",
         "recycling:mixed": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1185,12 +1215,12 @@
       "properties": {
         "@id": "node/4422209919",
         "amenity": "recycling",
-        "description": "In Front of Camper Park Recreation Building",
-        "location": "Camper Park",
-        "name": "PSI Recycling",
+        "description": "Camper Park",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1206,12 +1236,12 @@
       "properties": {
         "@id": "node/4422209920",
         "amenity": "recycling",
-        "description": "Behind Camper Park Recreation Building",
-        "location": "Camper Park",
-        "name": "PSI Recycling",
+        "description": "Camper Park",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1227,12 +1257,12 @@
       "properties": {
         "@id": "node/4422209921",
         "amenity": "recycling",
-        "description": "Outside Social Scieneces II",
-        "location": "Social Sciences II",
-        "name": "PSI Recycling",
+        "description": "Social Sciences II",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1248,12 +1278,12 @@
       "properties": {
         "@id": "node/4422209922",
         "amenity": "recycling",
-        "description": "Outside Social Scieneces I",
-        "location": "Social Sciences I",
-        "name": "PSI Recycling",
+        "description": "Social Sciences I",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1269,12 +1299,12 @@
       "properties": {
         "@id": "node/4422209923",
         "amenity": "recycling",
-        "description": "Adjacent to 9/10 Apartments Building 2",
-        "location": "9/10 Apartment Building 2",
-        "name": "PSI Recycling",
+        "description": "9/10 Apartment Building 2",
         "recycling:cans": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1290,11 +1320,11 @@
       "properties": {
         "@id": "node/4422209924",
         "amenity": "recycling",
-        "description": "Across from ILC Apartment Building 4",
-        "location": "International Living Center (ILC)",
-        "name": "PSI Recycling",
+        "description": "International Living Center (ILC)",
         "recycling:cans": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
@@ -1308,11 +1338,14 @@
       "type": "Feature",
       "id": "node/4432916680",
       "properties": {
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "@id": "node/4432916680",
         "amenity": "recycling",
-        "name": "PSI Humanities Dumpster",
         "recycling:cardboard": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Humanities Dumpster"
       },
       "geometry": {
         "type": "Point",
@@ -1328,12 +1361,13 @@
       "properties": {
         "@id": "node/4432916682",
         "amenity": "recycling",
-        "location": "In front of Humanities Lecture 1",
-        "name": "PSI Recycling",
         "recycling:cans": "yes",
         "recycling:glass_bottles": "yes",
         "recycling:plastic_bottles": "yes",
-        "recycling_type": "container"
+        "recycling_type": "container",
+        "title": "PSI Recycling",
+        "description": "In front of Humanities Lecture 1",
+        "marker-color": "#3bb2d0"
       },
       "geometry": {
         "type": "Point",
