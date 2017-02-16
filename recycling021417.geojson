@@ -20,7 +20,10 @@
         "recycling:plastic_bottles": "yes",
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-size": "",
+        "description": "Description TBD",
+        "title": "Title TBD"
       },
       "geometry": {
         "type": "Point",
@@ -70,7 +73,7 @@
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
         "marker-color": "#3bb2d0",
-        "title": "TBD",
+        "title": "Title TBD",
         "description": "Description TBD"
       },
       "geometry": {
@@ -101,7 +104,7 @@
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
         "marker-color": "#3bb2d0",
-        "title": "TBD",
+        "title": "Title TBD",
         "description": "Description TBD"
       },
       "geometry": {
@@ -123,7 +126,7 @@
         "recycling:glass_bottles": "yes",
         "recycling_type": "container",
         "marker-color": "#3bb2d0",
-        "title": "TBD",
+        "title": "Title TBD",
         "description": "Description TBD"
       },
       "geometry": {
@@ -151,7 +154,7 @@
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
         "marker-color": "#3bb2d0",
-        "title": "TBD",
+        "title": "Title TBD",
         "description": "Description TBD"
       },
       "geometry": {
@@ -176,7 +179,7 @@
         "recycling:paper_packaging": "yes",
         "recycling_type": "container",
         "marker-color": "#3bb2d0",
-        "title": "TBD",
+        "title": "Title TBD",
         "description": "Description TBD"
       },
       "geometry": {
@@ -207,7 +210,7 @@
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
         "marker-color": "#3bb2d0",
-        "title": "TBD",
+        "title": "Title TBD",
         "description": "Description TBD"
       },
       "geometry": {
@@ -238,7 +241,7 @@
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
         "marker-color": "#3bb2d0",
-        "title": "TBD",
+        "title": "Title TBD",
         "description": "Description TBD"
       },
       "geometry": {
@@ -269,7 +272,7 @@
         "recycling:plastic_packaging": "yes",
         "recycling_type": "container",
         "marker-color": "#3bb2d0",
-        "title": "TBD",
+        "title": "Title TBD",
         "description": "Description TBD"
       },
       "geometry": {
